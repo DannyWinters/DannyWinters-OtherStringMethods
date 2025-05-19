@@ -4,7 +4,6 @@
  * Please go to "OtherStringMethods.java" to complete the lab. 
  * 
  */
-
 public class Main {
 
     public static void main(String[] args) {
