@@ -13,7 +13,7 @@ public class Main {
 
         
 
-        //Substrings\
+        //Substrings
         System.out.println("\nSubstrings...");
         System.out.println("Given the string value '" + str  + "'...");
         System.out.println("The substring between index 2 (inclusive) and 5 (exclusive) should return 'vat', Actual output: " + osm.partOfString(str, 2, 5));
