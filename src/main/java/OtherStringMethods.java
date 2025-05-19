@@ -27,7 +27,8 @@ public class OtherStringMethods {
      * and 0 if s1 is equivalent to s2.
      */
     public int compareLexigraphically(String s1, String s2) {
-        return s1.compareTo(s2);
+        int i = s1.compareTo(s2);
+        return i;
     }
 
     /**
